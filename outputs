@@ -1,1 +1,12 @@
 
+7. Results
+The model successfully detects manipulated regions in scientific and biomedical images using segmentation masks.
+Evaluation Results
+
+
+1.Predicted forged regions with segmentation masks
+2.Visual comparison between original and predicted outputs
+3.Loss reduction during training
+4.Improved localization of duplicated areas
+5.Effective scientific image forgery detection performance
+
