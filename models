@@ -1,1 +1,11 @@
 
+5. Model
+
+The project uses Mask R-CNN for scientific image forgery detection and segmentation.
+
+Model Capabilities:
+1.Detect manipulated regions in scientific images
+2.Generate segmentation masks
+3.Localize forged or duplicated areas
+4.Improve biomedical image verification
+5.Support deep learning-based image analysis
