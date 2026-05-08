@@ -1,1 +1,12 @@
 
+Dataset
+
+This project uses scientific and biomedical images containing manipulated regions for segmentation-based forgery detection.
+
+Dataset includes:
+
+1.Original images
+2.Forged images
+3.Segmentation masks
+4.Annotation data
+Link: https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection/data
